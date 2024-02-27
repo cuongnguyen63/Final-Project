@@ -1,0 +1,2 @@
+Hello my name is CN. this is my final project to complete the course in Coder school. We’re here to talk about happiness and factors influencing happiness across countries.
+Just to give you a bit of the background, this dataset is from World Happiness Report (WHR), And this report sheds light on how government policies can be reviewed and changed to bring more happiness to their citizens from personal to national levels
